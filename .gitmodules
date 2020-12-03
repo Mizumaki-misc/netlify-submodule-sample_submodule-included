@@ -1,0 +1,4 @@
+[submodule "my-blog-starter/content/blog"]
+	path = my-blog-starter/content/blog
+	url = https://github.com/Mizumaki-misc/netlify-submodule-sample_submodule-source.git
+	branch = master
